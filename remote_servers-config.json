@@ -1,0 +1,22 @@
+[
+  {
+    "serverName": "yan-US-app-server-1",
+    "ip": "10.12.14.15",
+    "skip": false
+  },
+  {
+    "serverName": "yan-EU-app-server-2",
+    "ip": "10.30.14.16",
+    "skip": false
+  },
+  {
+    "serverName": "yan-US-db-server-3",
+    "ip": "10.12.14.17",
+    "skip": false
+  },
+  {
+    "serverName": "yan-EU-db-server-4",
+    "ip": "10.30.14.18",
+    "skip": true
+  }
+]
